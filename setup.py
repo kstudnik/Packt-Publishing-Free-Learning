@@ -9,7 +9,7 @@ package_version = '1.4.2'
 requirements = [
     'click==7.0',
     'google-api-python-client==1.6.3',
-    'requests==2.20.0',
+    'requests==2.32.2',
     'python-slugify==1.2.6'
 ]
 
